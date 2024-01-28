@@ -1,3 +1,3 @@
-# Examen-prueba2
+# DataStructures EXAM
 
-Examen de algortimos y estructuras de datos ESCOM 2022-2
+Code to solve a priority problem using data structures
